@@ -78,7 +78,7 @@ Länken till lathunden för gruppkontrakt hittar ni tillsamans med uppgiften på
 
 ## Inlämning
 
-Ni lämnar in en länk till ert eget privata repo (INTE gruppens repo) på Azomo senast kl 23:59, fredagen den 21/3. 
+Ni lämnar in en länk till ert eget privata repo (INTE gruppens repo) på Azomo senast kl 23:59, fredagen den 20/3. 
 I ert privata repo vill jag ha följande:
 
 * En länk till gruppens repo
